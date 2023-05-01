@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arvindzagade
-- 👀 I’m interested in Data Science Domain
+- 👀 I’m interested in Data Scientist exploring and solving problems using predictive modeling, data maniputlation, visualization.
 - 🌱 I’m currently learning stuff related to AI
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me -@ arvindzagade750@gmail.com
